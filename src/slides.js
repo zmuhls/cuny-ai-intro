@@ -153,6 +153,8 @@ document.addEventListener('touchend', e => {
   const dy = e.changedTouches[0].clientY - ty;
   if (Math.abs(dx) >= 48 && Math.abs(dx) >= Math.abs(dy) * 1.2) {
     dx < 0 ? advance() : retreat();
+  } else if (Math.abs(dx) < 16 && Math.abs(dy) < 16) {
+    advance();
   }
   swipeOk = false;
 }, { passive: true });

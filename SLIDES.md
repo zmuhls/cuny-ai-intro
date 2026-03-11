@@ -8,28 +8,23 @@ Zach Muhlbauer
 | # | data-slide | Label | Title |
 |---|-----------|-------|-------|
 | 1 | title | CUNY BA Student Roundtable | Tinkering as Critical Knowing |
-| 2 | why-cali | Background | Why CALI? |
-| 3 | what-cali | Background | What is CALI? |
-| 4 | year-one | CALI Year One | Building Shared Vocabulary |
-| 5 | chatui | CALI Year One | ChatUI Helper |
-| 6 | thinkering-break | Framework | T(h)inkering (break) |
-| 7 | thinkering | Framework | Tinkering + Thinking |
-| 8 | cali-to-cail | Transition | From CALI to CAIL |
-| 9 | cail-break | The Lab | CUNY AI Lab (break) |
-| 10 | mission | Mission | CUNY AI Lab |
-| 11 | sandbox | Platform | The Sandbox |
-| 12 | amigai | Project | AmigAI |
-| 13 | tools | Infrastructure | Tools & Infrastructure |
-| 14 | huggingface | Open Resources | CALI on Hugging Face |
-| 15 | close | Close | Get Involved |
-| 16 | resources | Resources | Links & References |
+| 2 | cali | Background | CALI |
+| 3 | year-one | CALI Year One | Building Shared Vocabulary |
+| 4 | thinkering | Framework | Tinkering + Thinking |
+| 5 | cali-to-cail | Transition | From CALI to CAIL |
+| 6 | mission | Mission | CUNY AI Lab |
+| 7 | sandbox | Platform | The Sandbox |
+| 8 | amigai | Project | AmigAI |
+| 9 | tools | Infrastructure | Tools & Open Resources |
+| 10 | close | Close | Get Involved |
+| 11 | resources | Resources | Links & References |
 
 ## Structure
 
-- **Slides 1–5**: CALI context and year one work
-- **Slides 6–8**: T(h)inkering framework and transition to the Lab
-- **Slides 9–13**: CUNY AI Lab mission, platform, projects, tools
-- **Slides 14–16**: Open resources, call to action, links
+- **Slides 1–3**: CALI context and year one work
+- **Slides 4–5**: T(h)inkering framework and transition to the Lab
+- **Slides 6–9**: CUNY AI Lab mission, platform, projects, tools
+- **Slides 10–11**: Call to action, discussion, links
 
 ## Key Links
 
@@ -45,6 +40,7 @@ Zach Muhlbauer
 ## Navigation
 
 - Arrow keys / Space: advance (with fragment reveals)
+- Tap on mobile: advance
 - Escape: overview mode
 - Swipe on mobile
 - Footer scrubber for direct navigation

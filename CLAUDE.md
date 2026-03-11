@@ -8,7 +8,7 @@ Uses a vanilla HTML/CSS/JS presentation framework adapted from the CAIL Spotligh
 ## File Structure
 
 ```
-index.html          Main presentation (16 slides)
+index.html          Main presentation (11 slides)
 src/
   styles.css        All styles — dark theme, soft grey-blue palette
   slides.js         Navigation engine — fragments, keyboard, touch, scrubber
