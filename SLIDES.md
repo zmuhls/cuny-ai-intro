@@ -16,7 +16,7 @@ Zach Muhlbauer
 | 7 | sandbox | Platform | The Sandbox |
 | 8 | amigai | Project | AmigAI |
 | 9 | tools | Infrastructure | Tools & Open Resources |
-| 10 | close | Close | Get Involved |
+| 10 | close | Discussion | Questions |
 | 11 | resources | Resources | Links & References |
 
 ## Structure
@@ -24,7 +24,7 @@ Zach Muhlbauer
 - **Slides 1–3**: CALI context and year one work
 - **Slides 4–5**: T(h)inkering framework and transition to the Lab
 - **Slides 6–9**: CUNY AI Lab mission, platform, projects, tools
-- **Slides 10–11**: Call to action, discussion, links
+- **Slides 10–11**: Discussion questions, links
 
 ## Key Links
 
@@ -32,7 +32,7 @@ Zach Muhlbauer
 - CAIL Sandbox: https://chat.ailab.gc.cuny.edu
 - CAIL Tools: https://tools.ailab.gc.cuny.edu
 - CALI: https://cuny.is/cali
-- AI Toolkit: https://cuny.is/ai-toolkit
+- AI Toolkit: https://aitoolkit.commons.gc.cuny.edu
 - Interest Group: https://cuny.is/cali-interest-group
 - ChatUI Helper: https://huggingface.co/spaces/milwright/chatui-helper
 - CALI HF Collection: https://huggingface.co/collections/milwright/critical-ai-literacy-institute-cali-gc-cuny
