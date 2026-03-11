@@ -16,6 +16,21 @@ function fragsOf(slide) {
   return Array.from(slide.querySelectorAll('.frag'));
 }
 
+function fitStepGrid(slide) {
+  const grid = slide.querySelector('.step-grid');
+  if (!grid) return;
+  const stage = grid.closest('.stage');
+  if (!stage) return;
+  grid.style.fontSize = '';
+  const available = stage.clientHeight;
+  if (available <= 0) return;
+  let size = 100;
+  while (grid.scrollHeight > available && size > 60) {
+    size -= 2;
+    grid.style.fontSize = size + '%';
+  }
+}
+
 function show(i, revealAll) {
   const next = clamp(i, 0, slides.length - 1);
   slides[idx].classList.remove('active');
@@ -35,6 +50,7 @@ function show(i, revealAll) {
   if (sliderThumb) sliderThumb.style.left = `calc(${progress}% - 10px)`;
 
   history.replaceState(null, '', `#${idx + 1}`);
+  fitStepGrid(slides[idx]);
   const f = slides[idx].querySelector('.content');
   if (f && document.activeElement !== scrubber) {
     f.setAttribute('tabindex', '-1');
@@ -177,6 +193,8 @@ window.addEventListener('hashchange', () => {
   const m = location.hash.match(/^#(\d+)$/);
   if (m) show(parseInt(m[1], 10) - 1, true);
 });
+
+window.addEventListener('resize', () => fitStepGrid(slides[idx]));
 
 const m = location.hash.match(/^#(\d+)$/);
 show(m ? clamp(parseInt(m[1], 10) - 1, 0, slides.length - 1) : 0, true);
