@@ -1,7 +1,7 @@
 # SLIDES — Tinkering as Critical Knowing
 
-CUNY BA Student Roundtable, March 4, 2026
-Zach Muhlbauer (on behalf of Luke Waltzer)
+CUNY BA Student Roundtable, March 11, 2026
+Zach Muhlbauer
 
 ## Slide Map
 
