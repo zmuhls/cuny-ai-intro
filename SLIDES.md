@@ -28,14 +28,28 @@ Zach Muhlbauer
 
 ## Key Links
 
-- CUNY AI Lab: https://ailab.gc.cuny.edu
-- CAIL Sandbox: https://chat.ailab.gc.cuny.edu
-- CAIL Tools: https://tools.ailab.gc.cuny.edu
+**CUNY AI Lab**
+- Main site: https://ailab.gc.cuny.edu
+- Sandbox (Open WebUI): https://chat.ailab.gc.cuny.edu
+- Tools: https://tools.ailab.gc.cuny.edu
+- GitHub: https://github.com/cuny-ai-lab
+
+**Critical AI Literacy Institute (CALI)**
 - CALI: https://cuny.is/cali
-- AI Toolkit: https://aitoolkit.commons.gc.cuny.edu
-- Interest Group: https://cuny.is/cali-interest-group
+- Critical AI Interest Group: https://cuny.is/cali-interest-group
+- Teach@CUNY AI Toolkit: https://aitoolkit.commons.gc.cuny.edu
+- Teaching and Learning Center (TLC): https://tlc.commons.gc.cuny.edu
+
+**Hugging Face**
+- CALI Collection: https://huggingface.co/collections/milwright/critical-ai-literacy-institute-cali-gc-cuny
 - ChatUI Helper: https://huggingface.co/spaces/milwright/chatui-helper
-- CALI HF Collection: https://huggingface.co/collections/milwright/critical-ai-literacy-institute-cali-gc-cuny
+- AmigAI Heritage Spanish (v1.2a): https://huggingface.co/spaces/CUNYGradCenter/Espanol_Hunter
+- AmigAI non-native Spanish (SPAN105): https://huggingface.co/spaces/CUNYGradCenter/AmigAI-SPAN105
+- Paratext Analysis (ENG328): https://huggingface.co/spaces/andiesilva/ENG328
+- qwen-8b-dialog-v1: https://huggingface.co/milwright/qwen-8b-dialog-v1
+
+**External**
+- Open WebUI: https://github.com/open-webui/open-webui
 
 ## Navigation
 
