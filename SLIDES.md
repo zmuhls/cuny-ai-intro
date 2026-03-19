@@ -40,14 +40,6 @@ Zach Muhlbauer
 - Teach@CUNY AI Toolkit: https://aitoolkit.commons.gc.cuny.edu
 - Teaching and Learning Center (TLC): https://tlc.commons.gc.cuny.edu
 
-**Hugging Face**
-- CALI Collection: https://huggingface.co/collections/milwright/critical-ai-literacy-institute-cali-gc-cuny
-- ChatUI Helper: https://huggingface.co/spaces/milwright/chatui-helper
-- AmigAI Heritage Spanish (v1.2a): https://huggingface.co/spaces/CUNYGradCenter/Espanol_Hunter
-- AmigAI non-native Spanish (SPAN105): https://huggingface.co/spaces/CUNYGradCenter/AmigAI-SPAN105
-- Paratext Analysis (ENG328): https://huggingface.co/spaces/andiesilva/ENG328
-- qwen-8b-dialog-v1: https://huggingface.co/milwright/qwen-8b-dialog-v1
-
 **External**
 - Open WebUI: https://github.com/open-webui/open-webui
 
